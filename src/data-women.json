@@ -1,0 +1,408 @@
+{
+  "products": [
+    {
+      "product": {
+        "product-name": "Long Jacket",
+        "id": "long-jacket-female",
+        "price": 125,
+        "default-color-tag": "red",
+        "description": "Go ahead. Buy it. Your wardrobe will thank you.",
+        "in-stock": [
+          {
+            "colorTag": "black",
+            "colorID": 0,
+            "imageUrls": ["/images/women/Long-Jacket/Long_Jacket-Jacket-1202-01_Black-77_1400x1400.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-01_Black-78_1400x1400.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-80_33dd94b8-4b9d-4e2b-b604-63a9826f9802_1400x1400.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-79_ce60b5c8-ca24-4bd2-a4b8-0bae5228ca26_1400x1400.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-55_29150484-b520-435d-8a16-000b1d235b7f_1400x1400.jpg"],
+            "rgb": "rgb(0, 0, 0)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          { 
+            "colorTag": "navy",
+            "colorID": 1,
+            "imageUrls": ["/images/women/Long-Jacket/Long_Jacket-Jacket-1202-123_378cf2ae-46fc-4a8b-94c0-72bf50469e64_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-96_30e488a7-6c28-451f-87ad-c4ddbfeaf07d_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-84_c4a4d960-e8b5-497f-a550-bdea5758e747_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-82_dbdd2676-0005-4e78-ac59-0c1392835b07_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-66_496076c4-1755-4af4-9915-f34a22e89ce2_800x800.jpg"],
+            "rgb": "rgb(43, 45, 73)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          {
+            "colorTag": "green",
+            "colorID": 2,
+            "imageUrls": ["/images/women/Long-Jacket/Long_Jacket-Jacket-1202-125_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-122_4638f573-de8c-4749-85a2-97080de1fe60_800x800.jpg", "/images/women/Long-Jacket/1486735839.0567_d7b791de-ba8a-4ee4-a20b-eb6c3f93677f_800x800.jpg", "/images/women/Long-Jacket/1486735839.0647_189f533c-de05-47ca-8ce1-1b8d0a49bea6_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-64_c5b0d733-ac38-41e7-981d-5bb1e9eab0ba_800x800.jpg"],
+            "rgb": "rgb(98, 103, 78)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          {
+            "colorTag": "charcoal",
+            "colorID": 3,
+            "imageUrls": ["/images/women/Long-Jacket/Long_Jacket-Jacket-1202-18_Charcoal-68_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-18_Charcoal-69_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-18_Charcoal-45_e52a8306-ea29-427b-9005-82021de92af5_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-18_Charcoal-46_dd946653-2bd7-41ba-bbd7-65a25461b721_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-18_Charcoal-44_27097cec-0214-4edc-8539-2572dc6c44bd_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-18_Charcoal-43_31ba4749-b7c7-43ad-9d75-b11639f89f71_800x800.jpg"],
+            "rgb": "rgb(108, 108, 110)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          {
+            "colorTag": "red",
+            "colorID": 4,
+            "imageUrls": ["/images/women/Long-Jacket/Long_Jacket-Jacket-1202-08_Red-72_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-08_Red-73_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-08_Red-53_25eb02dd-b118-4b17-8b0a-1cef718ee793_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-08_Red-52_4a4b8ea4-3101-4137-a613-5974b1520f7b_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-08_Red-51_5e33f0e1-0326-4593-80ab-829dadd7b31e_800x800.jpg"],
+            "rgb": "rgb(207, 24, 31)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          {
+            "colorTag": "klein-blue",
+            "colorID": 5,
+            "imageUrls": ["/images/women/Long-Jacket/Long_Jacket-Jacket-1202-06_Klein_Blue-70_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-06_Klein_Blue-71_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-06_Klein_Blue-49_aaa587b2-6724-45ab-bbe1-b08681e28f73_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-06_Klein_Blue-50_cd6ff7e1-de74-4810-adab-ecb5c1197640_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-06_Klein_Blue-48_f940bbdf-9bd7-4f0f-b531-0a3b473cc106_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-06_Klein_Blue-47_f8469ffd-4f78-426f-886f-3540395d8e53_800x800.jpg"],
+            "rgb": "rgb(7, 86, 127)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          {
+            "colorTag": "yellow",
+            "colorID": 6,
+            "imageUrls": ["/images/women/Long-Jacket/Long_Jacket-Jacket-1202-04_Yellow-126_1f914317-4af6-4958-858e-30ed615092f6_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-04_Yellow-125_8103dafd-3bad-40be-b45a-280dacf8c13a_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-04_Yellow-97_9efdb68b-114c-4508-95a1-e2f5bf54d07c_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-04_Yellow-99_3ff4a851-3df2-4f1c-bb1e-753777b9c5a7_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-04_Yellow-96_a80e5831-32d3-46c0-9d9f-3db66dcfdee3_800x800.jpg"],
+            "rgb": "rgb(255, 197, 0)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          }
+         ]
+      }
+    },
+    {
+      "product": {
+        "product-name": "Jacket",
+        "id": "jacket-female",
+        "price": 110,
+        "default-color-tag": "navy",
+        "description": "This one suites you well. It'll look great during those rainy days.",
+        "in-stock": [
+          {
+            "colorTag": "black",
+            "colorID": 0,
+            "imageUrls": ["/images/women/Jacket-Jacket/Jacket-Jacket-1201-01_Black-92_800x800.jpg", "/images/women/Jacket-Jacket/Jacket-Jacket-1201-01_Black-89_3e3e9ab2-4b37-4a6d-b5d0-d4fc20ac24f6_800x800.jpg", "/images/women/Jacket-Jacket/1486735091.5612_f7a85a98-d069-4761-b59c-b3ca7ea2f911_800x800.jpg", "/images/women/Jacket-Jacket/1486735091.5557_298858dc-b1e9-4696-a226-f89014029fa1_800x800.jpg", "/images/women/Jacket-Jacket/Jacket-Jacket-1201-51_922fe699-c070-496a-aa59-4d87932bba06_800x800.jpg"],
+            "rgb": "rgb(0, 0, 0)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          {
+            "colorTag": "navy",
+            "colorID": 1,
+            "imageUrls": ["/images/women/Jacket-Jacket/Jacket-Jacket-1201-02_Blue_800x800.jpg", "/images/women/Jacket-Jacket/Jacket-Jacket-1201-02_Blue-87_800x800.jpg", "/images/women/Jacket-Jacket/1486735091.5685_a6f422b9-de2a-4819-b2fa-92cd2d3cbab4_800x800.jpg", "/images/women/Jacket-Jacket/1486735091.5619_0a93034c-7393-4690-b291-4cae9dc20244_800x800.jpg", "/images/women/Jacket-Jacket/Jacket-Jacket-1201-62_800x800.jpg"],
+            "rgb": "rgb(43, 45, 73)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          {
+            "colorTag": "green",
+            "colorID": 2,
+            "imageUrls": ["/images/women/Jacket-Jacket/Jacket-Jacket-1201-03_Green-90_67654e49-ff11-44fa-aa10-ade049326073_800x800.jpg", "/images/women/Jacket-Jacket/Jacket-Jacket-1201-03_Green-86_800x800.jpg", "/images/women/Jacket-Jacket/1486735091.5598_6456f2f4-de79-4d9a-a0c6-21831981d72a_800x800.jpg", "/images/women/Jacket-Jacket/1486735091.5605_8c8ed4dd-0c6a-45b1-b39b-0208e9cd66a8_800x800.jpg", "/images/women/Jacket-Jacket/Jacket-Jacket-1201-60_e048863e-3732-4f92-8601-e9b2e95cb7e6_800x800.jpg"],
+            "rgb": "rgb(98, 103, 78)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          {
+            "colorTag": "charcoal",
+            "colorID": 3,
+            "imageUrls": ["/images/women/Jacket-Jacket/Jacket-Jacket-1201-18_Charcoal-67_45589fe0-ba78-4d76-a39e-1f09e7c03047_800x800.jpg", "/images/women/Jacket-Jacket/Jacket-Jacket-1201-18_Charcoal-66_e104b52a-04a1-41a1-86d3-4a082d1b6854_800x800.jpg", "/images/women/Jacket-Jacket/Jacket-Jacket-1201-18_Charcoal-42_50bec8b2-b45e-4d68-8c90-ae3ddadf9624_800x800.jpg", "/images/women/Jacket-Jacket/Jacket-Jacket-1201-18_Charcoal-43_d05a0600-b64f-4e93-88b7-6732eb0c41e8_800x800.jpg", "/images/women/Jacket-Jacket/Jacket-Jacket-1201-18_Charcoal-44_9185e854-0979-4a94-9fd2-6c11685a8bac_800x800.jpg"],
+            "rgb": "rgb(108, 108, 110)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          {
+            "colorTag": "red",
+            "colorID": 4,
+            "imageUrls": ["/images/women/Jacket-Jacket/Jacket-Jacket-1201-08_Red-64_71c6e8d9-d5fc-4509-8822-861fa6b34692_800x800.jpg", "/images/women/Jacket-Jacket/Jacket-Jacket-1201-08_Red-65_0ba20569-ed6f-4da4-9d31-5bd0e6fb8e74_800x800.jpg", "/images/women/Jacket-Jacket/Jacket-Jacket-1201-08_Red-39_2acae2d9-25f0-48ff-98c9-057efd5677b2_800x800.jpg", "/images/women/Jacket-Jacket/Jacket-Jacket-1201-08_Red-40_af2c19dd-a3b0-4bb2-b575-8105995593f7_800x800.jpg", "/images/women/Jacket-Jacket/Jacket-Jacket-1201-08_Red-41_a3ee2362-08a0-447a-801e-f888621079a8_800x800.jpg"],
+            "rgb": "rgb(207, 24, 31)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          {
+            "colorTag": "klein-blue",
+            "colorID": 5,
+            "imageUrls": ["/images/women/Jacket-Jacket/Jacket-Jacket-1201-06_Klein_Blue-68_32041ac2-9087-4526-be8b-acbb06a771e0_1400x1400.jpg", "/images/women/Jacket-Jacket/Jacket-Jacket-1201-06_Klein_Blue-69_a65ee833-24a7-438c-8f51-0ae5332f03ed_1400x1400.jpg", "/images/women/Jacket-Jacket/Jacket-Jacket-1201-06_Klein_Blue-45_837fb86e-87e6-4d01-853f-4fb7ed16686e_1400x1400.jpg", "/images/women/Jacket-Jacket/Jacket-Jacket-1201-06_Klein_Blue-46_d46e2287-fd8b-4191-b9c7-3d674650a9e5_1400x1400.jpg", "/images/women/Jacket-Jacket/Jacket-Jacket-1201-06_Klein_Blue-47_4684929c-7fed-4571-83c8-e5754cbdfb7c_1400x1400.jpg"],
+            "rgb": "rgb(7, 86, 127)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          {
+            "colorTag": "yellow",
+            "colorID": 6,
+            "imageUrls": ["/images/women/Jacket-Jacket/Jacket-Jacket-1201-04_Yellow-94_7b0b731a-2b58-4d53-afe6-55804a0a1358_800x800.jpg", "/images/women/Jacket-Jacket/Jacket-Jacket-1201-04_Yellow-93_2104071b-1d29-48c8-8c83-02c575c16d24_800x800.jpg", "/images/women/Jacket-Jacket/Jacket-Jacket-1201-04_Yellow-68_61eb4747-3908-4ae2-b3d0-cada1b7948c3_800x800.jpg", "/images/women/Jacket-Jacket/Jacket-Jacket-1201-04_Yellow-66_c1216743-65de-45ad-a686-3af6815be019_800x800.jpg", "/images/women/Jacket-Jacket/Jacket-Jacket-1201-04_Yellow-69_5fbeccdd-d53b-4088-bb67-16c318292e7d_800x800.jpg"],
+            "rgb": "rgb(255, 197, 0)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          }
+         ]
+      }
+    },
+    {
+      "product": {
+        "product-name": "Trousers",
+        "id": "trousers-female",
+        "price": 85,
+        "default-color-tag": "green",
+        "description": "You're protected up top but how about the bottom? You've come to the right place.",
+        "in-stock": [
+          {
+            "colorTag": "black",
+            "colorID": 0,
+            "imageUrls": ["/images/women/Trousers/Trousers-Pants-1270-01_Black-14_800x800.jpg", "/images/women/Trousers/Trousers-Pants-1270-01_Black-15_800x800.jpg", "/images/women/Trousers/1486740079.3289_8e0633b5-6c78-4b12-8ff2-bf5b15a75b57_800x800.jpg", "/images/women/Trousers/1486740079.3389_957518cd-7508-425f-bd3d-52bbf107bea4_800x800.jpg", "/images/women/Trousers/Trousers-Pants-1270-12_778e4d50-4aa9-43f2-93e1-47a0f10dd812_800x800.jpg", "/images/women/Trousers/Trousers-Pants-1270-15_1f7fe1dc-9a79-4698-a174-e5927399e124_800x800.jpg"],
+            "rgb": "rgb(0, 0, 0)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          {
+            "colorTag": "navy",
+            "colorID": 1,
+            "imageUrls": ["/images/women/Trousers/Trousers-Pants-1270-02_Blue_800x800.jpg", "/images/women/Trousers/Trousers-Pants-1270-02_Blue-16_800x800.jpg", "/images/women/Trousers/1486740079.3372_df5449df-db6c-41bb-b449-a974b76b28a5_800x800.jpg", "/images/women/Trousers/1486740079.338_c09debb2-ad86-4436-9856-f2ebd6e3d9cc_800x800.jpg", "/images/women/Trousers/Trousers-Pants-1270-14_f6456303-8543-4ff2-abc5-94215e29ded1_800x800.jpg", "/images/women/Trousers/Trousers-Pants-1270-16_36cc6c08-3597-4beb-9ddf-38caeb21b6b5_800x800.jpg"],
+            "rgb": "rgb(43, 45, 73)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          {
+            "colorTag": "green",
+            "colorID": 2,
+            "imageUrls": ["/images/women/Trousers/Trousers-Pants-1270-03_Green-28_8ef9db34-8778-42b4-9d4b-176c4986bf02_1400x1400.jpg", "/images/women/Trousers/Trousers-Pants-1270-03_Green-27_1504f5b2-54b8-4fea-86cd-290ed346928b_800x800.jpg","/images/women/Trousers/Trousers-Pants-1270-03_Green-18_00da74f6-a40e-4d7d-b7f7-1b596a3686a7_1400x1400.jpg", "/images/women/Trousers/Trousers-Pants-1270-03_Green-18_00da74f6-a40e-4d7d-b7f7-1b596a3686a7_1400x1400.jpg", "/images/women/Trousers/Trousers-Pants-1270-03_Green-21_0a281935-9e61-4cc6-9572-f5bb21c262e6_1400x1400.jpg", "/images/women/Trousers/Trousers-Pants-1270-03_Green-20_5311abff-2693-4922-be48-0a6244cfd269_1400x1400.jpg"],
+            "rgb": "rgb(98, 103, 78)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          {
+            "colorTag": "stone",
+            "colorID": 3,
+            "imageUrls": ["/images/women/Trousers/Trousers-Pants-1270-75_Stone-21_347c9cb2-9226-461a-a4a2-74cb114cf6f0_800x800.jpg", "/images/women/Trousers/Trousers-Pants-1270-75_Stone-22_058cb2ea-92c0-44b5-9f44-1cd4019baee6_800x800.jpg", "/images/women/Trousers/Trousers-Pants-1270-75_Stone-17_ca1f6f51-3ab6-4149-b244-6f36c9f36c21_800x800.jpg", "/images/women/Trousers/Trousers-Pants-1270-75_Stone-16_78699275-6bab-43fe-87cb-a6c57d4a6a94_800x800.jpg", "/images/women/Trousers/Trousers-Pants-1270-75_Stone-15_98514b7e-f2a5-412b-9a0e-7d33e0fdb5ad_800x800.jpg", "/images/women/Trousers/Trousers-Pants-1270-75_Stone-14_5fc00a22-0bf4-4926-a3e8-a56adf0d7126_800x800.jpg"],
+            "rgb": "rgb(170, 171, 172)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          }
+         ]
+      }
+    },
+    {
+      "product": {
+        "product-name": "Tracksuit Jacket",
+        "id": "tracksuit-jacket-female",
+        "price": 140,
+        "default-color-tag": "klein-blue",
+        "description": "This one's a keeper. Perfect for any wardrobe.",
+        "in-stock": [
+          {
+            "colorTag": "black",
+            "colorID": 0,
+            "imageUrls": ["/images/women/Tracksuit-Jacket/Tracksuit_Jacket-Jacket-1262-01_Black-13_fe158e73-6151-447b-8db5-06c93cefccec_800x800.jpg", "/images/women/Tracksuit-Jacket/Tracksuit_Jacket-Jacket-1262-01_Black-14_800x800.jpg", "/images/women/Tracksuit-Jacket/Tracksuit_Jacket-Jacket-1262-01_Black-1_35c2b2c2-2544-4293-b2d1-0047342a1646_800x800.jpg", "/images/women/Tracksuit-Jacket/Tracksuit_Jacket-Jacket-1262-01_Black-2_384ec99c-9bc8-4987-9e6a-961b0d7b8cdf_800x800.jpg", "/images/women/Tracksuit-Jacket/Tracksuit_Jacket-Jacket-1262-01_Black-4_5e3212f9-3b35-4d23-9e8b-77fae44cba77_800x800.jpg"],
+            "rgb": "rgb(0, 0, 0)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          {
+            "colorTag": "red",
+            "colorID": 1,
+            "imageUrls": ["/images/women/Tracksuit-Jacket/Tracksuit_Jacket-Jacket-1262-08_Red-17_d171b603-554e-4c1c-8947-2541add90960_1400x1400.jpg", "/images/women/Tracksuit-Jacket/Tracksuit_Jacket-Jacket-1262-08_Red_1400x1400.jpg", "/images/women/Tracksuit-Jacket/Tracksuit_Jacket-Jacket-1262-08_Red-9_1234fc38-9055-4930-825c-d737d085ce0f_1400x1400.jpg", "/images/women/Tracksuit-Jacket/Tracksuit_Jacket-Jacket-1262-08_Red-10_215aa6da-2ac3-4fff-b764-6dae943ed0ff_1400x1400.jpg", "/images/women/Tracksuit-Jacket/Tracksuit_Jacket-Jacket-1262-08_Red-11_ecfcc1ae-5047-4056-a8e0-53d45a4c5a40_1400x1400.jpg"],
+            "rgb": "rgb(207, 24, 31)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          {
+            "colorTag": "klein-blue",
+            "colorID": 2,
+            "imageUrls": ["/images/women/Tracksuit-Jacket/Tracksuit_Jacket-Jacket-1262-06_Klein_Blue-16_800x800.jpg", "/images/women/Tracksuit-Jacket/Tracksuit_Jacket-Jacket-1262-06_Klein_Blue-15_a2c21eab-eda0-4558-9b80-35055235db1e_800x800.jpg", "/images/women/Tracksuit-Jacket/Tracksuit_Jacket-Jacket-1262-06_Klein_Blue-5_b4e695ca-a33d-41f4-bf79-966309d9b38f_800x800.jpg", "/images/women/Tracksuit-Jacket/Tracksuit_Jacket-Jacket-1262-06_Klein_Blue-6_17c803ec-9d0d-463e-bacd-2b5f10265f60_800x800.jpg", "/images/women/Tracksuit-Jacket/Tracksuit_Jacket-Jacket-1262-06_Klein_Blue-8_2164699f-ef2e-40dc-b499-47f8711ad6bd_800x800.jpg"],
+            "rgb": "rgb(7, 86, 127)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          }
+         ]
+      }
+    },
+    {
+      "product": {
+        "product-name": "Quilted Parka",
+        "id": "quilted-parka-female",
+        "price": 250,
+        "default-color-tag": "yellow",
+        "description": "Sometimes it'll be rainy and cold. Why not kill two birds with one stone?",
+        "in-stock": [
+          {
+            "colorTag": "black",
+            "colorID": 0,
+            "imageUrls": ["/images/women/Quilted-Parka/Quilted_Parka-Jacket-1514-01_Black_800x800.jpg", "/images/women/Quilted-Parka/Quilted_Parka-Jacket-1514-01_Black-13_75ecc237-1a36-40a7-a85d-8181b6aa118e_800x800.jpg", "/images/women/Quilted-Parka/Quilted_Parka-Jacket-1514-01_Black-1_b5bc2ffb-861d-4792-8b6f-62ebb1bd65ac_800x800.jpg", "/images/women/Quilted-Parka/Quilted_Parka-Jacket-1514-01_Black-2_19c1238d-1acd-4a2f-b574-ce1dbd82aad1_800x800.jpg", "/images/women/Quilted-Parka/Quilted_Parka-Jacket-1514-01_Black-3_4436faf3-b450-41d8-afc0-bb4d0452a5f7_800x800.jpg"],
+            "rgb": "rgb(0, 0, 0)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          {
+            "colorTag": "navy",
+            "colorID": 1,
+            "imageUrls": ["/images/women/Quilted-Parka/Quilted_Parka-Jacket-1514-02_Blue-14_800x800.jpg", "/images/women/Quilted-Parka/Quilted_Parka-Jacket-1514-02_Blue-15_30163c30-d4f4-4180-a7c1-bcc9a470cda5_800x800.jpg", "/images/women/Quilted-Parka/Quilted_Parka-Jacket-1514-02_Blue-13_40bcb008-8a8b-4b40-a6a1-27b5b21b0d18_800x800.jpg", "/images/women/Quilted-Parka/Quilted_Parka-Jacket-1514-02_Blue-5_846da608-e0a0-45f7-bf19-7cf62c7feec1_800x800.jpg", "/images/women/Quilted-Parka/Quilted_Parka-Jacket-1514-02_Blue-6_e5c19eac-c050-41a4-8a74-873a1381e7da_800x800.jpg"],
+            "rgb": "rgb(43, 45, 73)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          {
+            "colorTag": "yellow",
+            "colorID": 2,
+            "imageUrls": ["/images/women/Quilted-Parka/Quilted_Parka-Jacket-1514-04_Yellow-18_126a47f6-27e1-4563-8da6-5d84b098325e_1400x1400.jpg", "/images/women/Quilted-Parka/Quilted_Parka-Jacket-1514-04_Yellow-19_e7597151-2ea3-4a1d-ab8e-b810b5013e96_1400x1400.jpg", "/images/women/Quilted-Parka/Quilted_Parka-Jacket-1514-04_Yellow-14_1ca4d1f2-4349-43b3-85a5-92f4880fdf47_1400x1400.jpg", "/images/women/Quilted-Parka/Quilted_Parka-Jacket-1514-04_Yellow-15_b720c8a9-9468-4cea-aedc-1ae40988cd9c_1400x1400.jpg", "/images/women/Quilted-Parka/Quilted_Parka-Jacket-1514-04_Yellow-16_6cddbb34-a355-4111-9b71-4cef0a133f1f_1400x1400.jpg", "/images/women/Quilted-Parka/Quilted_Parka-Jacket-1514-04_Yellow-11_aa39cc40-4ee2-46ff-bb82-4ff39a9f3b66_1400x1400.jpg"],
+            "rgb": "rgb(255, 197, 0)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          }
+         ]
+      }
+    },
+    {
+      "product": {
+        "product-name": "Holographic Long Jacket",
+        "id": "holographic-long-jacket-female",
+        "price": 140,
+        "default-color-tag": "holographic-beige",
+        "description": "You're looking for a unique look. This is the perfect option.",
+        "in-stock": [
+          {
+            "colorTag": "holographic-black",
+            "colorID": 0,
+            "imageUrls": ["/images/women/Holographic-Long-Jacket/Holographic_Long_Jacket-Jacket-1802-25_Holographic_Black-11_800x800.jpg", "/images/women/Holographic-Long-Jacket/Holographic_Long_Jacket-Jacket-1802-25_Holographic_Black-10_800x800.jpg", "/images/women/Holographic-Long-Jacket/Holographic_Long_Jacket-Jacket-1802-25_Holographic_Black-5_800x800.jpg", "/images/women/Holographic-Long-Jacket/Holographic_Long_Jacket-Jacket-1802-25_Holographic_Black-8_800x800.jpg", "/images/women/Holographic-Long-Jacket/Holographic_Long_Jacket-Jacket-1802-25_Holographic_Black-6_800x800.jpg", "/images/women/Holographic-Long-Jacket/Holographic_Long_Jacket-Jacket-1802-25_Holographic_Black-7_800x800.jpg"],
+            "swatchUrl": "/images/women/Main/Colour_Black_Holographic.png",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          {
+            "colorTag": "holographic-beige",
+            "colorID": 1,
+            "imageUrls": ["/images/women/Holographic-Long-Jacket/Holographic_Long_Jacket-Jacket-1802-31_Holographic_Beige-9_1400x1400.jpg", "/images/women/Holographic-Long-Jacket/Holographic_Long_Jacket-Jacket-1802-31_Holographic_Beige_800x800.jpg", "/images/women/Holographic-Long-Jacket/Holographic_Long_Jacket-Jacket-1802-31_Holographic_Beige-1_1400x1400.jpg", "/images/women/Holographic-Long-Jacket/Holographic_Long_Jacket-Jacket-1802-31_Holographic_Beige-2_1400x1400.jpg", "/images/women/Holographic-Long-Jacket/Holographic_Long_Jacket-Jacket-1802-31_Holographic_Beige-4_1400x1400.jpg", "/images/women/Holographic-Long-Jacket/Holographic_Long_Jacket-Jacket-1802-31_Holographic_Beige-3_1400x1400.jpg"],
+            "swatchUrl": "/images/women/Main/Colour_Holographic-Beige.png",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          }
+         ]
+      }
+    }
+  ]
+}

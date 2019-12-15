@@ -1,0 +1,421 @@
+{
+  "products": [
+    {
+      "product": {
+        "product-name": "Long Jacket",
+        "id": "long-jacket-male",
+        "price": 125,
+        "default-color-tag": "black",
+        "description": "Go ahead. Buy it. Your wardrobe will thank you.",
+        "in-stock": [
+          {
+            "colorTag": "black",
+            "colorID": 0,
+            "imageUrls": ["/images/men/Long-Jacket/Long_Jacket-Jacket-1202-120_1400x1400.jpg", "/images/men/Long-Jacket/Long_Jacket-Jacket-1202-121_1400x1400.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-80_33dd94b8-4b9d-4e2b-b604-63a9826f9802_1400x1400.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-79_ce60b5c8-ca24-4bd2-a4b8-0bae5228ca26_1400x1400.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-55_29150484-b520-435d-8a16-000b1d235b7f_1400x1400.jpg"],
+            "rgb": "rgb(0, 0, 0)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          { 
+            "colorTag": "blue",
+            "colorID": 1,
+            "imageUrls": ["/images/men/Long-Jacket/Long_Jacket-Jacket-1202-122_800x800.jpg", "/images/men/Long-Jacket/Long_Jacket-Jacket-1202-97_c25bab7f-3056-45c2-a0ca-b622d81a569b_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-84_c4a4d960-e8b5-497f-a550-bdea5758e747_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-82_dbdd2676-0005-4e78-ac59-0c1392835b07_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-66_496076c4-1755-4af4-9915-f34a22e89ce2_800x800.jpg"],
+            "rgb": "rgb(43, 45, 73)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          {
+            "colorTag": "green",
+            "colorID": 2,
+            "imageUrls": ["/images/men/Long-Jacket/Long_Jacket-Jacket-1202-03_Green-77_800x800.jpg", "/images/men/Long-Jacket/Long_Jacket-Jacket-1202-03_Green-78_800x800.jpg", "/images/women/Long-Jacket/1486735839.0567_d7b791de-ba8a-4ee4-a20b-eb6c3f93677f_800x800.jpg", "/images/women/Long-Jacket/1486735839.0647_189f533c-de05-47ca-8ce1-1b8d0a49bea6_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-64_c5b0d733-ac38-41e7-981d-5bb1e9eab0ba_800x800.jpg"],
+            "rgb": "rgb(98, 103, 78)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          {
+            "colorTag": "charcoal",
+            "colorID": 3,
+            "imageUrls": ["/images/men/Long-Jacket/Long_Jacket-Jacket-1202-18_Charcoal-70_800x800.jpg", "/images/men/Long-Jacket/Long_Jacket-Jacket-1202-18_Charcoal-71_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-18_Charcoal-45_e52a8306-ea29-427b-9005-82021de92af5_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-18_Charcoal-46_dd946653-2bd7-41ba-bbd7-65a25461b721_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-18_Charcoal-44_27097cec-0214-4edc-8539-2572dc6c44bd_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-18_Charcoal-43_31ba4749-b7c7-43ad-9d75-b11639f89f71_800x800.jpg"],
+            "rgb": "rgb(108, 108, 110)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          {
+            "colorTag": "red",
+            "colorID": 4,
+            "imageUrls": ["/images/men/Long-Jacket/Long_Jacket-Jacket-1202-08_Red-75_800x800.jpg", "/images/men/Long-Jacket/Long_Jacket-Jacket-1202-08_Red-74_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-08_Red-53_25eb02dd-b118-4b17-8b0a-1cef718ee793_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-08_Red-52_4a4b8ea4-3101-4137-a613-5974b1520f7b_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-08_Red-51_5e33f0e1-0326-4593-80ab-829dadd7b31e_800x800.jpg"],
+            "rgb": "rgb(207, 24, 31)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          {
+            "colorTag": "klein-blue",
+            "colorID": 5,
+            "imageUrls": ["/images/men/Long-Jacket/Long_Jacket-Jacket-1202-06_Klein_Blue-72_800x800.jpg", "/images/men/Long-Jacket/Long_Jacket-Jacket-1202-06_Klein_Blue-73_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-06_Klein_Blue-49_aaa587b2-6724-45ab-bbe1-b08681e28f73_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-06_Klein_Blue-50_cd6ff7e1-de74-4810-adab-ecb5c1197640_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-06_Klein_Blue-48_f940bbdf-9bd7-4f0f-b531-0a3b473cc106_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-06_Klein_Blue-47_f8469ffd-4f78-426f-886f-3540395d8e53_800x800.jpg"],
+            "rgb": "rgb(7, 86, 127)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          {
+            "colorTag": "yellow",
+            "colorID": 6,
+            "imageUrls": ["/images/men/Long-Jacket/Long_Jacket-Jacket-1202-04_Yellow-126_800x800.jpg", "/images/men/Long-Jacket/Long_Jacket-Jacket-1202-04_Yellow-125_800x800.jpg","/images/men/Long-Jacket/Long_Jacket-Jacket-1202-04_Yellow-99_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-04_Yellow-97_9efdb68b-114c-4508-95a1-e2f5bf54d07c_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-04_Yellow-99_3ff4a851-3df2-4f1c-bb1e-753777b9c5a7_800x800.jpg", "/images/women/Long-Jacket/Long_Jacket-Jacket-1202-04_Yellow-96_a80e5831-32d3-46c0-9d9f-3db66dcfdee3_800x800.jpg"],
+            "rgb": "rgb(255, 197, 0)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          }
+         ]
+      }
+    },
+    {
+      "product": {
+        "product-name": "Jacket",
+        "id": "jacket-male",
+        "price": 110,
+        "default-color-tag": "charcoal",
+        "description": "This one suites you well. It'll look great during those rainy days.",
+        "in-stock": [
+          {
+            "colorTag": "black",
+            "colorID": 0,
+            "imageUrls": ["/images/men/Jacket-Jacket/Jacket-Jacket-1201-01_Black-87_800x800.jpg", "/images/men/Jacket-Jacket/Jacket-Jacket-1201-01_Black-89_800x800.jpg", "/images/women/Jacket-Jacket/1486735091.5612_f7a85a98-d069-4761-b59c-b3ca7ea2f911_800x800.jpg", "/images/women/Jacket-Jacket/1486735091.5557_298858dc-b1e9-4696-a226-f89014029fa1_800x800.jpg", "/images/women/Jacket-Jacket/Jacket-Jacket-1201-51_922fe699-c070-496a-aa59-4d87932bba06_800x800.jpg"],
+            "rgb": "rgb(0, 0, 0)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          {
+            "colorTag": "blue",
+            "colorID": 1,
+            "imageUrls": ["/images/men/Jacket-Jacket/Jacket-Jacket-1201-02_Blue-94_800x800.jpg", "/images/men/Jacket-Jacket/Jacket-Jacket-1201-02_Blue-93_800x800.jpg", "/images/women/Jacket-Jacket/1486735091.5685_a6f422b9-de2a-4819-b2fa-92cd2d3cbab4_800x800.jpg", "/images/women/Jacket-Jacket/1486735091.5619_0a93034c-7393-4690-b291-4cae9dc20244_800x800.jpg", "/images/women/Jacket-Jacket/Jacket-Jacket-1201-62_800x800.jpg"],
+            "rgb": "rgb(43, 45, 73)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          {
+            "colorTag": "green",
+            "colorID": 2,
+            "imageUrls": ["/images/men/Jacket-Jacket/Jacket-Jacket-1201-03_Green-90_800x800.jpg", "/images/men/Jacket-Jacket/Jacket-Jacket-1201-03_Green-88_800x800.jpg", "/images/women/Jacket-Jacket/1486735091.5598_6456f2f4-de79-4d9a-a0c6-21831981d72a_800x800.jpg", "/images/women/Jacket-Jacket/1486735091.5605_8c8ed4dd-0c6a-45b1-b39b-0208e9cd66a8_800x800.jpg", "/images/women/Jacket-Jacket/Jacket-Jacket-1201-60_e048863e-3732-4f92-8601-e9b2e95cb7e6_800x800.jpg"],
+            "rgb": "rgb(98, 103, 78)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          {
+            "colorTag": "charcoal",
+            "colorID": 3,
+            "imageUrls": ["/images/men/Jacket-Jacket/Jacket-Jacket-1201-18_Charcoal-66_800x800.jpg", "/images/men/Jacket-Jacket/Jacket-Jacket-1201-18_Charcoal-67_800x800.jpg", "/images/women/Jacket-Jacket/Jacket-Jacket-1201-18_Charcoal-42_50bec8b2-b45e-4d68-8c90-ae3ddadf9624_800x800.jpg", "/images/women/Jacket-Jacket/Jacket-Jacket-1201-18_Charcoal-43_d05a0600-b64f-4e93-88b7-6732eb0c41e8_800x800.jpg", "/images/women/Jacket-Jacket/Jacket-Jacket-1201-18_Charcoal-44_9185e854-0979-4a94-9fd2-6c11685a8bac_800x800.jpg"],
+            "rgb": "rgb(108, 108, 110)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          {
+            "colorTag": "red",
+            "colorID": 4,
+            "imageUrls": ["/images/men/Jacket-Jacket/Jacket-Jacket-1201-08_Red-65_1400x1400.jpg", "/images/men/Jacket-Jacket/Jacket-Jacket-1201-08_Red-64_1400x1400.jpg", "/images/women/Jacket-Jacket/Jacket-Jacket-1201-08_Red-39_2acae2d9-25f0-48ff-98c9-057efd5677b2_800x800.jpg", "/images/women/Jacket-Jacket/Jacket-Jacket-1201-08_Red-40_af2c19dd-a3b0-4bb2-b575-8105995593f7_800x800.jpg", "/images/women/Jacket-Jacket/Jacket-Jacket-1201-08_Red-41_a3ee2362-08a0-447a-801e-f888621079a8_800x800.jpg"],
+            "rgb": "rgb(207, 24, 31)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          {
+            "colorTag": "klein-blue",
+            "colorID": 5,
+            "imageUrls": ["/images/men/Jacket-Jacket/Jacket-Jacket-1201-06_Klein_Blue-68_800x800.jpg", "/images/men/Jacket-Jacket/Jacket-Jacket-1201-06_Klein_Blue-69_800x800.jpg", "/images/women/Jacket-Jacket/Jacket-Jacket-1201-06_Klein_Blue-45_837fb86e-87e6-4d01-853f-4fb7ed16686e_1400x1400.jpg", "/images/women/Jacket-Jacket/Jacket-Jacket-1201-06_Klein_Blue-46_d46e2287-fd8b-4191-b9c7-3d674650a9e5_1400x1400.jpg", "/images/women/Jacket-Jacket/Jacket-Jacket-1201-06_Klein_Blue-47_4684929c-7fed-4571-83c8-e5754cbdfb7c_1400x1400.jpg"],
+            "rgb": "rgb(7, 86, 127)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          {
+            "colorTag": "yellow",
+            "colorID": 6,
+            "imageUrls": ["/images/men/Jacket-Jacket/Jacket-Jacket-1201-04_Yellow-94_800x800.jpg", "/images/men/Jacket-Jacket/Jacket-Jacket-1201-04_Yellow-93_800x800.jpg", "/images/women/Jacket-Jacket/Jacket-Jacket-1201-04_Yellow-68_61eb4747-3908-4ae2-b3d0-cada1b7948c3_800x800.jpg", "/images/women/Jacket-Jacket/Jacket-Jacket-1201-04_Yellow-66_c1216743-65de-45ad-a686-3af6815be019_800x800.jpg", "/images/women/Jacket-Jacket/Jacket-Jacket-1201-04_Yellow-69_5fbeccdd-d53b-4088-bb67-16c318292e7d_800x800.jpg"],
+            "rgb": "rgb(255, 197, 0)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          }
+         ]
+      }
+    },
+    {
+      "product": {
+        "product-name": "Trousers",
+        "id": "trousers-male",
+        "price": 85,
+        "default-color-tag": "green",
+        "description": "You're protected up top but how about the bottom? You've come to the right place.",
+        "in-stock": [
+          {
+            "colorTag": "black",
+            "colorID": 0,
+            "imageUrls": ["/images/men/Trousers/Trousers-Pants-1270-01_Black_800x800.jpg", "/images/men/Trousers/Trousers-Pants-1270-01_Black-16_800x800.jpg", "/images/women/Trousers/1486740079.3289_8e0633b5-6c78-4b12-8ff2-bf5b15a75b57_800x800.jpg", "/images/women/Trousers/1486740079.3389_957518cd-7508-425f-bd3d-52bbf107bea4_800x800.jpg", "/images/women/Trousers/Trousers-Pants-1270-12_778e4d50-4aa9-43f2-93e1-47a0f10dd812_800x800.jpg", "/images/women/Trousers/Trousers-Pants-1270-15_1f7fe1dc-9a79-4698-a174-e5927399e124_800x800.jpg"],
+            "rgb": "rgb(0, 0, 0)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          {
+            "colorTag": "blue",
+            "colorID": 1,
+            "imageUrls": ["/images/men/Trousers/Trousers-Pants-1270-02_Blue-15_800x800.jpg", "/images/men/Trousers/Trousers-Pants-1270-02_Blue-14_800x800.jpg", "/images/women/Trousers/1486740079.3372_df5449df-db6c-41bb-b449-a974b76b28a5_800x800.jpg", "/images/women/Trousers/1486740079.338_c09debb2-ad86-4436-9856-f2ebd6e3d9cc_800x800.jpg", "/images/women/Trousers/Trousers-Pants-1270-14_f6456303-8543-4ff2-abc5-94215e29ded1_800x800.jpg", "/images/women/Trousers/Trousers-Pants-1270-16_36cc6c08-3597-4beb-9ddf-38caeb21b6b5_800x800.jpg"],
+            "rgb": "rgb(43, 45, 73)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          {
+            "colorTag": "green",
+            "colorID": 2,
+            "imageUrls": ["/images/men/Trousers/Trousers-Pants-1270-03_Green-27_1400x1400.jpg", "/images/men/Trousers/Trousers-Pants-1270-03_Green-28_1400x1400.jpg", "/images/women/Trousers/Trousers-Pants-1270-03_Green-18_00da74f6-a40e-4d7d-b7f7-1b596a3686a7_1400x1400.jpg", "/images/women/Trousers/Trousers-Pants-1270-03_Green-21_0a281935-9e61-4cc6-9572-f5bb21c262e6_1400x1400.jpg", "/images/women/Trousers/Trousers-Pants-1270-03_Green-20_5311abff-2693-4922-be48-0a6244cfd269_1400x1400.jpg"],
+            "rgb": "rgb(98, 103, 78)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          {
+            "colorTag": "stone",
+            "colorID": 3,
+            "imageUrls": ["/images/men/Trousers/Trousers-Pants-1270-75_Stone-22_800x800.jpg", "/images/men/Trousers/Trousers-Pants-1270-75_Stone-21_800x800.jpg", "/images/women/Trousers/Trousers-Pants-1270-75_Stone-17_ca1f6f51-3ab6-4149-b244-6f36c9f36c21_800x800.jpg", "/images/women/Trousers/Trousers-Pants-1270-75_Stone-16_78699275-6bab-43fe-87cb-a6c57d4a6a94_800x800.jpg", "/images/women/Trousers/Trousers-Pants-1270-75_Stone-15_98514b7e-f2a5-412b-9a0e-7d33e0fdb5ad_800x800.jpg", "/images/women/Trousers/Trousers-Pants-1270-75_Stone-14_5fc00a22-0bf4-4926-a3e8-a56adf0d7126_800x800.jpg"],
+            "rgb": "rgb(170, 171, 172)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          }
+         ]
+      }
+    },
+    {
+      "product": {
+        "product-name": "Tracksuit Jacket",
+        "id": "tracksuit-jacket-male",
+        "price": 140,
+        "default-color-tag": "red",
+        "description": "This one's a keeper. Perfect for any wardrobe.",
+        "in-stock": [
+          {
+            "colorTag": "black",
+            "colorID": 0,
+            "imageUrls": ["/images/men/Tracksuit-Jacket/Tracksuit_Jacket-Jacket-1262-01_Black_800x800.jpg", "/images/men/Tracksuit-Jacket/Tracksuit_Jacket-Jacket-1262-01_Black-13_800x800.jpg", "/images/women/Tracksuit-Jacket/Tracksuit_Jacket-Jacket-1262-01_Black-1_35c2b2c2-2544-4293-b2d1-0047342a1646_800x800.jpg", "/images/women/Tracksuit-Jacket/Tracksuit_Jacket-Jacket-1262-01_Black-2_384ec99c-9bc8-4987-9e6a-961b0d7b8cdf_800x800.jpg", "/images/women/Tracksuit-Jacket/Tracksuit_Jacket-Jacket-1262-01_Black-4_5e3212f9-3b35-4d23-9e8b-77fae44cba77_800x800.jpg"],
+            "rgb": "rgb(0, 0, 0)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          {
+            "colorTag": "red",
+            "colorID": 1,
+            "imageUrls": ["/images/men/Tracksuit-Jacket/Tracksuit_Jacket-Jacket-1262-08_Red-17_800x800.jpg", "/images/men/Tracksuit-Jacket/Tracksuit_Jacket-Jacket-1262-08_Red-16_800x800.jpg", "/images/women/Tracksuit-Jacket/Tracksuit_Jacket-Jacket-1262-08_Red-9_1234fc38-9055-4930-825c-d737d085ce0f_1400x1400.jpg", "/images/women/Tracksuit-Jacket/Tracksuit_Jacket-Jacket-1262-08_Red-10_215aa6da-2ac3-4fff-b764-6dae943ed0ff_1400x1400.jpg", "/images/women/Tracksuit-Jacket/Tracksuit_Jacket-Jacket-1262-08_Red-11_ecfcc1ae-5047-4056-a8e0-53d45a4c5a40_1400x1400.jpg"],
+            "rgb": "rgb(207, 24, 31)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          {
+            "colorTag": "klein-blue",
+            "colorID": 2,
+            "imageUrls": ["/images/men/Tracksuit-Jacket/Tracksuit_Jacket-Jacket-1262-06_Klein_Blue-14_1400x1400.jpg", "/images/men/Tracksuit-Jacket/Tracksuit_Jacket-Jacket-1262-06_Klein_Blue-15_1400x1400.jpg", "/images/women/Tracksuit-Jacket/Tracksuit_Jacket-Jacket-1262-06_Klein_Blue-5_b4e695ca-a33d-41f4-bf79-966309d9b38f_800x800.jpg", "/images/women/Tracksuit-Jacket/Tracksuit_Jacket-Jacket-1262-06_Klein_Blue-6_17c803ec-9d0d-463e-bacd-2b5f10265f60_800x800.jpg", "/images/women/Tracksuit-Jacket/Tracksuit_Jacket-Jacket-1262-06_Klein_Blue-8_2164699f-ef2e-40dc-b499-47f8711ad6bd_800x800.jpg"],
+            "rgb": "rgb(7, 86, 127)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          }
+         ]
+      }
+    },
+    {
+      "product": {
+        "product-name": "Long Quilted Parka",
+        "id": "long-quilted-parka-male",
+        "price": 300,
+        "default-color-tag": "oil-camo",
+        "description": "Sometimes it'll be rainy and cold. Why not kill two birds with one stone?",
+        "in-stock": [
+          {
+            "colorTag": "black",
+            "colorID": 0,
+            "imageUrls": ["/images/men/Long-Quilted-Parka-Jacket/Long_Quilted_Parka-Jacket-1516-01_Black-15_800x800.jpg", "/images/men/Long-Quilted-Parka-Jacket/Long_Quilted_Parka-Jacket-1516-01_Black-16_800x800.jpg", "/images/men/Long-Quilted-Parka-Jacket/Long_Quilted_Parka-Jacket-1516-01_Black-7_800x800.jpg", "/images/men/Long-Quilted-Parka-Jacket/Long_Quilted_Parka-Jacket-1516-01_Black-8_800x800.jpg", "/images/men/Long-Quilted-Parka-Jacket/Long_Quilted_Parka-Jacket-1516-01_Black-6_800x800.jpg", "/images/men/Long-Quilted-Parka-Jacket/Long_Quilted_Parka-Jacket-1516-01_Black-5_800x800.jpg"],
+            "rgb": "rgb(0, 0, 0)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          {
+            "colorTag": "blue",
+            "colorID": 1,
+            "imageUrls": ["/images/men/Long-Quilted-Parka-Jacket/Long_Quilted_Parka-Jacket-1516-02_Blue-18_800x800.jpg", "/images/men/Long-Quilted-Parka-Jacket/Long_Quilted_Parka-Jacket-1516-02_Blue-19_800x800.jpg", "/images/men/Long-Quilted-Parka-Jacket/Long_Quilted_Parka-Jacket-1516-02_Blue-2_800x800.jpg", "/images/men/Long-Quilted-Parka-Jacket/Long_Quilted_Parka-Jacket-1516-02_Blue-1_800x800.jpg", "/images/men/Long-Quilted-Parka-Jacket/Long_Quilted_Parka-Jacket-1516-02_Blue-12_800x800.jpg", "/images/men/Long-Quilted-Parka-Jacket/Long_Quilted_Parka-Jacket-1516-02_Blue-3_800x800.jpg"],
+            "rgb": "rgb(43, 45, 73)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          {
+            "colorTag": "oil-camo",
+            "colorID": 2,
+            "imageUrls": ["/images/men/Long-Quilted-Parka-Jacket/Long_Quilted_Parka-Jacket-1516-41_Oil_Camo_1400x1400.jpg", "/images/men/Long-Quilted-Parka-Jacket/Long_Quilted_Parka-Jacket-1516-41_Oil_Camo-17_1400x1400.jpg", "/images/men/Long-Quilted-Parka-Jacket/Long_Quilted_Parka-Jacket-1516-41_Oil_Camo-13_1400x1400.jpg", "/images/men/Long-Quilted-Parka-Jacket/Long_Quilted_Parka-Jacket-1516-41_Oil_Camo-9_1400x1400.jpg", "/images/men/Long-Quilted-Parka-Jacket/Long_Quilted_Parka-Jacket-1516-41_Oil_Camo-11_1400x1400.jpg", "/images/men/Long-Quilted-Parka-Jacket/Long_Quilted_Parka-Jacket-1516-41_Oil_Camo-14_1400x1400.jpg"],
+            "swatchUrl": "/images/men/Long-Quilted-Parka-Jacket/Colour_Oil-Camo.png",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          }
+         ]
+      }
+    },
+    {
+      "product": {
+        "product-name": "Coat",
+        "id": "coat-jacket-male",
+        "price": 140,
+        "default-color-tag": "metallic-charcoal",
+        "description": "You're looking for a unique look. This is the perfect option.",
+        "in-stock": [
+          {
+            "colorTag": "black",
+            "colorID": 0,
+            "imageUrls": ["/images/men/Coat-Jacket/Coat-Jacket-1256-01_Black-30_bf197477-1b33-4ff0-8c5e-6877c6229519_800x800.jpg", "/images/men/Coat-Jacket/Coat-Jacket-1256-01_Black-31_aa5a16f7-5c20-4986-82d6-b34966b0b727_800x800.jpg", "/images/men/Coat-Jacket/Coat-Jacket-1256-01_Black-4_800x800.jpg", "/images/men/Coat-Jacket/Coat-Jacket-1256-01_Black-1_800x800.jpg", "/images/men/Coat-Jacket/Coat-Jacket-1256-01_Black-3_800x800.jpg", "/images/men/Coat-Jacket/Coat-Jacket-1256-01_Black-2_800x800.jpg"],
+            "rgb": "rgb(0, 0, 0)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          {
+            "colorTag": "blue",
+            "colorID": 1,
+            "imageUrls": ["/images/men/Coat-Jacket/Coat-Jacket-1256-02_Blue-32_6ca4d00a-88c1-4ad6-aff7-a05afe99a916_800x800.jpg", "/images/men/Coat-Jacket/Coat-Jacket-1256-02_Blue-15_800x800.jpg", "/images/men/Coat-Jacket/Coat-Jacket-1256-02_Blue-5_800x800.jpg", "/images/men/Coat-Jacket/Coat-Jacket-1256-02_Blue-6_800x800.jpg", "/images/men/Coat-Jacket/Coat-Jacket-1256-02_Blue-7_800x800.jpg", "/images/men/Coat-Jacket/Coat-Jacket-1256-02_Blue-8_800x800.jpg"],
+            "rgb": "rgb(43, 45, 73)",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          },
+          {
+            "colorTag": "metallic-charcoal",
+            "colorID": 2,
+            "imageUrls": ["/images/men/Coat-Jacket/Coat-Jacket-1256-15_Metallic_Charcoal-19_1400x1400.jpg", "/images/men/Coat-Jacket/Coat-Jacket-1256-15_Metallic_Charcoal-20_1400x1400.jpg", "/images/men/Coat-Jacket/Coat-Jacket-1256-15_Metallic_Charcoal-14_1400x1400.jpg", "/images/men/Coat-Jacket/Coat-Jacket-1256-15_Metallic_Charcoal-15_1400x1400.jpg", "/images/men/Coat-Jacket/Coat-Jacket-1256-15_Metallic_Charcoal-16_1400x1400.jpg", "/images/men/Coat-Jacket/Coat-Jacket-1256-15_Metallic_Charcoal-13_1400x1400.jpg"],
+            "swatchUrl": "/images/men/Coat-Jacket/Colour_Metallic-Charcoal.svg",
+            "sizes": [
+              {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
+              {"size": "XS/S", "tag": "xs-s", "inventory": 1},
+              {"size": "S/M", "tag": "s-m", "inventory": 3},
+              {"size": "M/L", "tag": "m-l", "inventory": 4},
+              {"size": "L/XL", "tag": "l-xl", "inventory": 2}
+            ]
+          }
+         ]
+      }
+    }
+  ]
+}
