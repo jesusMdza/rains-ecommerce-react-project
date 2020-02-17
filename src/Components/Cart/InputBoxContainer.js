@@ -1,6 +1,8 @@
 import React from 'react';
 
-class InputBox extends React.Component {
+import InputBox from './InputBox';
+
+class InputBoxContainer extends React.Component {
 
   state = {
     value: 1
@@ -32,17 +34,13 @@ class InputBox extends React.Component {
 
   render() {
     return(
-      <div className="product-info">
-        <input
-          onBlur={this.checkValue}
-          maxLength={2} 
-          type="text" 
-          onChange={(e) => this.handleInputChange(e)}
-          value={this.state.value}>
-        </input>
-      </div>
+      <InputBox 
+        checkValue={this.checkValue}
+        handleInputChange={this.handleInputChange}
+        value={this.state.value}
+      />
     );
   }
 }
 
-export default InputBox;
+export default InputBoxContainer;

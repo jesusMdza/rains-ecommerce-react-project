@@ -1,10 +1,11 @@
 import React from 'react';
 import ReactTestUtils from 'react-dom/test-utils';
 
-import Slider from './Slider';
-import Swatch from './Swatch';
+import Product from './Product';
+import Slider from '../Slider';
+import Swatch from '../Swatch';
 
-class Product extends React.Component {
+class ProductContainer extends React.Component {
 
   state = {
     colorTagParam: "",
@@ -40,7 +41,7 @@ class Product extends React.Component {
           swatchUrl={inStockObj.swatchUrl}
           colorTag={inStockObj.colorTag}
           inStockData={this.props.inStockData}
-          setImageUrls={this.setImageUrls}
+          getImageUrls={this.getImageUrls}
           getColorTag={this.getColorTag}
           parentProductID={this.props.productName}
           defaultColorTag={this.props.defaultColorTag}
@@ -150,12 +151,10 @@ class Product extends React.Component {
     this.setState({lastSwatch: ref});
   }
 
-  setImageUrls = (id, inStockData) => {
-    for (let i = 0; i < inStockData.length; i++) {
-      this.setState({
-        imageUrls: inStockData[id].imageUrls,
-      });
-    }
+  getImageUrls = (inStockObject) => {
+    this.setState({
+      imageUrls: inStockObject.imageUrls,
+    });
   }
 
   getColorTag = (tag) => {
@@ -178,25 +177,23 @@ class Product extends React.Component {
     } = this.props;
 
     return (
-      <div className="product-container">
-        <div className="image-block" onClick={(e) => this.changeUrl()} onMouseEnter={this.change} onMouseLeave={this.reset}> 
-          {this.state.slider ? 
-            <Slider previous={this.previous} next={this.next} changeToIndexZero={this.changeToIndexZero} changeToIndexTwo={this.changeToIndexTwo} /> 
-            : 
-            null
-          }
-          <img src={this.state.imageUrls[this.state.currentImageIndex]} className="image" alt={productName} />
-        </div>
-        <div className="name-price">
-          <h3>{productName}</h3>
-          <h3>{price} USD</h3>
-        </div>
-        <div className="color-container">
-          {this.state.swatchData}
-        </div>
-      </div>
+      <Product 
+        change={this.change}
+        changeUrl={this.changeUrl}
+        currentImageIndex={this.state.currentImageIndex}
+        reset={this.reset}
+        changeToIndexZero={this.changeToIndexZero}
+        changeToIndexTwo={this.changeToIndexTwo}
+        next={this.next}
+        previous={this.previous}
+        imageUrls={this.state.imageUrls}
+        productName={productName}
+        price={price}
+        swatchData={this.state.swatchData}
+        slider={this.state.slider}
+      />
     );
   }
 }
 
-export default Product;
+export default ProductContainer;

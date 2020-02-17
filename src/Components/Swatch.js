@@ -62,15 +62,16 @@ class Swatch extends React.Component {
       swatchUrl,
       colorTag,
       inStockData,
-      setImageUrls,
+      getImageUrls,
+      getColorTag,
       productDetailsRendered
     } = this.props
 
     const selectImageUrls = () => {
       for (let i = 0; i < inStockData.length; i++) {
         if (id === inStockData[i].colorID) {
-          setImageUrls(id, inStockData);
-          this.props.getColorTag(colorTag);
+          getImageUrls(inStockData[i]);
+          getColorTag(colorTag);
         }
       }
       if (this.props.updateUrl) {

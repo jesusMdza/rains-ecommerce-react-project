@@ -3,7 +3,7 @@ import React from 'react';
 const CartError = () => {
   return (
     <div>
-      <p>hi</p>
+      <p>YOUR CART IS EMPTY</p>
     </div>
   );
 }

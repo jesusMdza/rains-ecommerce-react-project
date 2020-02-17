@@ -1,10 +1,9 @@
 import React from 'react';
 import {Link} from 'react-router-dom';
 
-import Hamburger from './Hamburger';
-import CartSVG from './CartSVG';
+import NavTop from './NavTop';
 
-class NavTop extends React.Component {
+class NavTopContainer extends React.Component {
 
   state = {
     cartLength: 0
@@ -50,28 +49,12 @@ class NavTop extends React.Component {
     } = this.props;
 
     return (
-      <div className="top-nav">
-        <div className="hamburger-container">
-          <Hamburger toggleMenu={toggleMenu} />
-        </div>
-        <div className="mobile-logo-container">
-          <Link to="/women">
-            <img src="/images/logo/logo-mobile.png" alt="" />
-          </Link>
-        </div>
-        <div className="cart-button-container">
-          <div className="cart-text">
-            <Link to="/cart">
-              {
-                this.state.cartLength === 0 ? 'Cart' : `Cart(${this.state.cartLength})`
-              }
-            </Link>
-          </div>
-          <CartSVG />
-        </div>
-      </div>
+      <NavTop 
+        cartLength={this.state.cartLength}
+        toggleMenu={toggleMenu}
+      />
     );
   }
 }
 
-export default NavTop;
+export default NavTopContainer;

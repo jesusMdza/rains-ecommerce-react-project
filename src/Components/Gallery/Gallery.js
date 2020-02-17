@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 
-import Product from './Product';
+import Product from './ProductContainer';
 
 class ProductGallery extends Component {
 
