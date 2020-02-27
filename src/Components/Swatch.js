@@ -56,6 +56,8 @@ class Swatch extends React.Component {
   }
   
   render() {
+
+    // incoming properties
     const {
       id,
       rgb,
