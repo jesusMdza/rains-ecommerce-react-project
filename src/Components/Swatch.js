@@ -4,15 +4,15 @@ class Swatch extends React.Component {
 
   state = {
     defaultSwatchSelectedRef: {},
-    visibility: "hidden"
+    swatchTag: "hidden"
   }
 
   showSwatchTag = () => {
-    this.setState({visibility: "visible"});
+    this.setState({swatchTag: "visible"});
   }
 
   hideSwatchTag = () => {
-    this.setState({visibility: "hidden"});
+    this.setState({swatchTag: "hidden"});
   }
 
   ref = React.createRef();
@@ -79,26 +79,48 @@ class Swatch extends React.Component {
       }
     }
   
+    // Small swatch 
     if (productDetailsRendered === undefined) {
       return (
-        <div className="swatch-container" onMouseOver={this.showSwatchTag} onMouseOut={this.hideSwatchTag}>
-          {/* onMouseover color-box */}
-          <div onMouseOver={() => {selectImageUrls(); this.props.getCurrentSwatchRef(this.ref.current); this.props.getCurrentSwatchIndex(this.props.indx)}} className="color-box" style={{backgroundColor: rgb}} ref={this.ref}> 
+        <div className="swatch-container">
+          <div  
+            className="color-box" 
+            style={{backgroundColor: rgb}} 
+            ref={this.ref}
+            onMouseOver={() => {
+                this.showSwatchTag() 
+                selectImageUrls()
+                this.props.getCurrentSwatchRef(this.ref.current)
+                this.props.getCurrentSwatchIndex(this.props.indx)
+              }
+            }
+            onMouseOut={() => {this.hideSwatchTag()}}
+          > 
             {swatchUrl ? <img src={swatchUrl} alt="" /> : null}
           </div>
-          <div className="tag-container" style={{visibility: this.state.visibility}}>
+
+          <div className="tag-container" style={{visibility: this.state.swatchTag}}>
             {colorTag}
           </div>
         </div>
       );
-    } else {
+    } 
+
+    // Big swatch
+    else {
       return (
-        <div className="swatch-container" onMouseOver={this.showSwatchTag} onMouseOut={this.hideSwatchTag}>
-          {/* onClick color-box-big */}
-          <div onClick={selectImageUrls} className="color-box-big" style={{backgroundColor: rgb}}>
+        <div className="swatch-container">
+          <div 
+            className="color-box-big" 
+            style={{backgroundColor: rgb}}
+            onClick={selectImageUrls} 
+            onMouseOver={this.showSwatchTag} 
+            onMouseOut={this.hideSwatchTag} 
+          >
             {swatchUrl ? <img src={swatchUrl} onClick={() => this.changeUrl} alt="" /> : null}
           </div>
-          <div className="tag-container" style={{visibility: this.state.visibility}}>
+
+          <div className="tag-container" style={{visibility: this.state.swatchTag}}>
             {colorTag}
           </div>
         </div>
