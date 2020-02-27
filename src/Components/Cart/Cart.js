@@ -38,6 +38,7 @@ const Cart = ({cartProductRowContainers, data, total}) => {
           <div className="update row-no-border">
             <div 
               onClick={() => {
+                alert(`Your total price is ${total} USD. Thanks for shopping with us!`)
                 sessionStorage.clear()
                 window.location.reload(false)
                 }}>
