@@ -176,6 +176,8 @@ img {
 
 .gallery-grid {
   display: grid;
+  display: -ms-flexbox;
+  -ms-flex-wrap: wrap;
   margin: 40px 0 30px 0;
   grid-template-columns: 1fr 1fr 1fr;
   row-gap: 80px;
@@ -510,10 +512,9 @@ img {
 
   .gallery-container {
     width: 100%;
-    padding: 0 40px;
+    padding: 0 6%;
     margin-top: 120px;
   }
-  
 
   .product-details-container {
     width: initial;
@@ -549,8 +550,9 @@ img {
     height: 26px;
     margin-right: 10px;
     cursor: pointer;
+  }
 }
-}
+  
 
 /************** mobile styles ******************/
 
@@ -658,13 +660,6 @@ img {
     margin-top: 30px;
   }
 
-  /* .color-box-big {
-    width: 20px;
-    height: 20px;
-    margin-right: 8px;
-    cursor: pointer;
-  } */
-
   /**** nav bar styles ******/
   .hamburger span {
     width: 18px;
@@ -692,5 +687,38 @@ img {
 
   .product-added-row .product-info.product-info-name-size-mobile img {
     margin-left: 0;
+  }
+}
+
+/****************** ie 10+ styles *****************/
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  .mobile-logo-container img {
+    height: 19px;
+  }
+
+  .product-container {
+    padding-left: 7px !important;
+    padding-right: 7px !important;
+    margin-bottom: 80px;
+    width: 33.3%;
+  }
+
+  .gallery-container .gallery-grid {
+    margin-left: -7px !important;
+    margin-right: -7px !important;
+  }
+
+  @media all and (max-width: 767px) {
+    .product-container {
+      padding-left: 7px !important;
+      padding-right: 7px !important;
+      margin-bottom: 80px;
+      width: 50%;
+    }
+
+    .gallery-container .gallery-grid {
+      margin-left: -7px !important;
+      margin-right: -7px !important;
+    }
   }
 }
