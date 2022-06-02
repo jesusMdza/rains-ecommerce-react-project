@@ -241,7 +241,7 @@
           {
             "colorTag": "green",
             "colorID": 2,
-            "imageUrls": ["/images/women/Trousers/Trousers-Pants-1270-03_Green-28_8ef9db34-8778-42b4-9d4b-176c4986bf02_1400x1400.jpg", "/images/women/Trousers/Trousers-Pants-1270-03_Green-27_1504f5b2-54b8-4fea-86cd-290ed346928b_800x800.jpg","/images/women/Trousers/Trousers-Pants-1270-03_Green-18_00da74f6-a40e-4d7d-b7f7-1b596a3686a7_1400x1400.jpg", "/images/women/Trousers/Trousers-Pants-1270-03_Green-18_00da74f6-a40e-4d7d-b7f7-1b596a3686a7_1400x1400.jpg", "/images/women/Trousers/Trousers-Pants-1270-03_Green-21_0a281935-9e61-4cc6-9572-f5bb21c262e6_1400x1400.jpg", "/images/women/Trousers/Trousers-Pants-1270-03_Green-20_5311abff-2693-4922-be48-0a6244cfd269_1400x1400.jpg"],
+            "imageUrls": ["/images/women/Trousers/Trousers-Pants-1270-03_Green-28_8ef9db34-8778-42b4-9d4b-176c4986bf02_1400x1400.jpg", "/images/women/Trousers/Trousers-Pants-1270-03_Green-27_1504f5b2-54b8-4fea-86cd-290ed346928b_800x800.jpg","/images/women/Trousers/Trousers-Pants-1270-03_Green-18_00da74f6-a40e-4d7d-b7f7-1b596a3686a7_1400x1400.jpg", "/images/women/Trousers/Trousers-Pants-1270-03_Green-21_0a281935-9e61-4cc6-9572-f5bb21c262e6_1400x1400.jpg", "/images/women/Trousers/Trousers-Pants-1270-03_Green-20_5311abff-2693-4922-be48-0a6244cfd269_1400x1400.jpg"],
             "rgb": "rgb(98, 103, 78)",
             "sizes": [
               {"size": "XXS/XS", "tag": "xxs-xs", "inventory": 1},
